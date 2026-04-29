@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets — NEVER commit
+.env
+
+# Runtime caches and partial outputs
+.translation_cache.db
+*.partial.pdf
+
+# WSL metadata
+*:Zone.Identifier
+
+# Source PDFs and extracted text — copyright of original authors / publishers.
+# Bring your own PDF; this tool does not redistribute copyrighted books.
+*.pdf
+blocks.json
+glossary.json
+batch_input/
+translations/
+
+# Backup of legacy reference script
+translate_pdf_fitz.py.bak
